@@ -1,0 +1,15 @@
+{
+  "name": "passport-discord-advanced",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Nithish Pravin",
+    "github": "https://github.com/NithishCodez",
+    "website": "https://nithishpravin.xyz/"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
