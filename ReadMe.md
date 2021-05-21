@@ -9,7 +9,7 @@ passport discord advanced is a Express middleware for discord OAuth2 and OAuth w
 **Installation:**
 
 ```
-npm i passport-discord-official
+npm i passport-discord-advanced
 ```
 
 ### **Basic Usage**
