@@ -26,7 +26,7 @@ const passport = new passport_discord({
 const express = require("express");
 const app = express();
 
-app.get("/", passport.authenticate);
+app.get("/", passport.authenticate());
 app.get("/callback", async (req, res) => {
   const auth = await passport.authenticateUser(req);
   const user = await passport.getUserData(auth.access_token); //The authed user's data
