@@ -51,8 +51,8 @@ const refreshed_object = await passport.refresh(auth.refresh_token);//return new
 
 ### Contributors 📘
 
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=NithishCodez/passport-discord-official" />
+<a href="https://github.com/NithishCodez/passport-discord-advanced/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=NithishCodez/passport-discord-advanced" />
 </a>
 
 Made with ♥ and JavaScript By [NithishCodez](https://github.com/NithishCodez)
